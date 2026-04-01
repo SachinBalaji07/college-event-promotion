@@ -1,1 +1,1 @@
-# college-event-promotion
+# college-event-promotions
